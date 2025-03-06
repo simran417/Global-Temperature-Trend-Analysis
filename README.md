@@ -28,9 +28,6 @@ The dataset contains temperature records from various global locations spanning 
 - **Temperature (°C/F)**: Daily or monthly temperature readings.
 - **Other Features**: Humidity, precipitation, and other meteorological parameters.
 
-### Dataset Link:
-[Provide the dataset link or source]
-
 ## Prerequisites:
 Ensure you have the following installed:
 - Python 3.x
